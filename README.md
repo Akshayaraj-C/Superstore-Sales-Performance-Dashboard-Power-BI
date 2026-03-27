@@ -24,5 +24,3 @@ The project provided valuable learnings in mastering Data Analysis techniques, e
 - Explore similar products in the best-selling category to drive growth.
 - Aim for higher revenue and profit by optimizing sales trends.
 - Focus on exceptional service and shipping strategies to meet customer preferences.
-  
-[Watch the Power BI Dashboard Video](https://drive.google.com/file/d/112eKzXUxVyixxTiwtvSakeZl82Nc7nWo/view?usp=sharing)
