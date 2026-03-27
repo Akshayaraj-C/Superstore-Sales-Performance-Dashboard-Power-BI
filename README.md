@@ -1,4 +1,4 @@
-# Super Store Sales Analysis Dashboard -- Power Bi
+# Super Store Sales Analysis Dashboard | Power BI
 
 ## Project Objective
 The objective of this project is to contribute to the success of the business by utilizing Data Analysis techniques, specifically focusing on Time Series Analysis, to provide valuable insights and accurate Sales Forecasting of 15 Days.
